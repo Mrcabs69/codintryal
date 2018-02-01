@@ -5,3 +5,5 @@ import UIKit
 var str = "Hello, playground"
 
 var array = ["pepe", "pedro"]
+
+array[1]
