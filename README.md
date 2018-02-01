@@ -1,2 +1,2 @@
-# codintryal
-ayeeee, let's roll
+
+## Demo project with playgrund
