@@ -6,9 +6,6 @@ var str = "Hello, playground"
 
 var array = ["pepe", "pedro"]
 
-array[1]
-
-
 class Persona {
     var nombre = ""
     var edad = 18
